@@ -1,0 +1,16 @@
+{
+  "name": "cappadocia",
+  "version": "1.0.0",
+  "description": "Trip example page",
+  "license": "MIT",
+  "author": "Bill Nagbe",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  }
+}
